@@ -1,0 +1,7 @@
+C:\Users\sufiy\source\repos\refAndOut\refAndOut\bin\Debug\refAndOut.exe.config
+C:\Users\sufiy\source\repos\refAndOut\refAndOut\bin\Debug\refAndOut.exe
+C:\Users\sufiy\source\repos\refAndOut\refAndOut\bin\Debug\refAndOut.pdb
+C:\Users\sufiy\source\repos\refAndOut\refAndOut\obj\Debug\refAndOut.csproj.AssemblyReference.cache
+C:\Users\sufiy\source\repos\refAndOut\refAndOut\obj\Debug\refAndOut.csproj.CoreCompileInputs.cache
+C:\Users\sufiy\source\repos\refAndOut\refAndOut\obj\Debug\refAndOut.exe
+C:\Users\sufiy\source\repos\refAndOut\refAndOut\obj\Debug\refAndOut.pdb

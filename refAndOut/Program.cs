@@ -193,7 +193,7 @@ namespace refAndOut
 
         // Проверка на четность с out
 
-        //public static void isNumberEven(int number, out bool isEven)
+        //public static void IsNumberEven(int number, out bool isEven)
         //{
         //    // провека на четность
         //    isEven = (number % 2 == 0);
@@ -201,7 +201,7 @@ namespace refAndOut
 
         // Обмен значениями двух переменных
 
-        //public static void switchPlaces(ref int a, ref int b)
+        //public static void SwitchPlaces(ref int a, ref int b)
         //{
         //    // смена значений переменных
         //    (a, b) = (b, a);
